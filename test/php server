@@ -29,9 +29,4 @@ for($i= 0;$i< $num; $i++){
 }
 echo json_encode ( $array2 );  
 		
-
-
-
-
-
 ?>  
